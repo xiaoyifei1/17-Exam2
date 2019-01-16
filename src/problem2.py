@@ -152,6 +152,7 @@ class Triangle(object):
         self.shrink_time=0
         self.largest_area=0
 
+
     def area(self):
         """
         What comes in:
